@@ -15,3 +15,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3149544080
 - Add AtragMx presets and accurate mRad reticle calibration.
 - Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf" for all optics.
 - Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf" for all weapons.
+
+Bohemia Interactive forum's download links: https://forums.bohemia.net/forums/topic/288484-jca-gen-4-weapons-compat-ace3/
