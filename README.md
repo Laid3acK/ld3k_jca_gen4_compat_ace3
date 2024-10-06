@@ -14,7 +14,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3149544080
 - Add 5.56x45mm ammunition M855A1 Lake City.
 - Add 5.56x45mm ammunition MM995 Armor Piercing 52gr.
 - Add 7.62x51mm ammunition Subsonic Lapua 200gr B416 ICAO G1 BC 0.518.
-- Add 7.62x51mm ammunition M993 AP 127gr.
+- Add 7.62x51mm ammunition M993 Armor Piercing 127gr.
 - Add AtragMx presets and accurate mRad reticle calibration.
 - Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf" for all optics.
 - Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf" for all weapons.
