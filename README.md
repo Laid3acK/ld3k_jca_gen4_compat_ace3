@@ -1,5 +1,5 @@
-Ace3 compatibility for the Arma 3 weapon mod "JCA - Gen 4 Weapon Family" by Grave: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3149544080)
-- Can be played with or without Ace3.
+ACE3 compatibility for the Arma 3 weapon mod "JCA - Gen 4 Weapon Family" by Grave: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3149544080)
+- Can be played with or without ACE3.
 - Default ballistic muzzle velocities according to Advanced Ballistics ICAO muzzle velocities (15°C, 1013.25 hPa, 0%).
 - Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
 - ACE3 "mass" according to manufacturers datas.
@@ -21,6 +21,8 @@ Ace3 compatibility for the Arma 3 weapon mod "JCA - Gen 4 Weapon Family" by Grav
 - Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf" for all optics.
 - Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf" for all weapons.
 
-Download links: [Bohemia Interactive forums](https://forums.bohemia.net/forums/topic/288484-jca-gen-4-weapons-compat-ace3/)
+Download links:
+- [Bohemia Interactive forums](https://forums.bohemia.net/forums/topic/288484-jca-gen-4-weapons-compat-ace3/)
+- [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3295054445)
 
 License: [Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
