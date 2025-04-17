@@ -6,7 +6,7 @@ ACE3 compatibility for the Arma 3 weapon mod "JCA - Gen 4 Weapon Family" by Grav
 - ACE3 values according to:
   - Knight's Armament Company Mk 11 MOD 0 20" barrel twist 1:11.25".
   - SR10 14.5" barrel twist 1:10".
-  - M4A1/A4 10.3", 14.5" barrels twist 1:7".
+  - M4A4 10.3", M4A1 14.5" barrel twist 1:7".
 - 5.56x45mm ammunition from ACE3 Ghitub: "B_556x45_Ball", standart 5.56x45mm NATO ball (SS109 / M855).
 - 7.62x51mm ammunition from ACE3 Ghitub: "ACE_762x51_Ball_Mk316_Mod_0" according to Sierra datas: 7.62mm HPBT MatchKing 175gr, ASM G1 BC 0.496 between 2800 fps (853m/s) and 1800 fps (549m/s) converted to ICAO G1 BC 0.489.
 - Add 5.56x45mm M855A1 from 2022/23 datas.
@@ -18,8 +18,8 @@ ACE3 compatibility for the Arma 3 weapon mod "JCA - Gen 4 Weapon Family" by Grav
 - Add 7.62x51mm M993 AP from ACE3 Ghitub.
 - Add 7.62x51mm ammunition Subsonic Lapua 200gr B416 ICAO G1 BC 0.518.
 - Add AtragMx presets and accurate mRad reticle calibration.
-- Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf" for all optics.
-- Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf" for all weapons.
+- Add "ACE_ScopeHeightAboveRail" values from ACE3 "checkScopes.sqf" for all optics.
+- Add "ACE_railHeightAboveBore" values from ACE3 "checkScopes.sqf" for all weapons.
 
 Download links:
 - [Bohemia Interactive forums](https://forums.bohemia.net/forums/topic/288484-jca-gen-4-weapons-compat-ace3/)
