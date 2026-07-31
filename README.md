@@ -4,22 +4,29 @@ ACE3 ballistics compatibility for the Arma 3 weapon mod "JCA - Gen 4 Weapon Fami
 - Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
 - ACE3 "mass" according to manufacturers datas.
 - ACE3 values according to:
-  - Knight's Armament Company Mk 11 MOD 0 20" barrel twist 1:11.25".
-  - SR10 14.5" barrel twist 1:10".
-  - M4A4 10.3", M4A1 14.5" barrel twist 1:7".
-- 5.56x45mm ammunition from ACE3 Ghitub: "B_556x45_Ball", standart 5.56x45mm NATO ball (SS109 / M855).
-- 7.62x51mm ammunition from ACE3 Ghitub: "ACE_762x51_Ball_Mk316_Mod_0" according to Sierra datas: 7.62mm HPBT MatchKing 175gr, ASM G1 BC 0.496 between 2800 fps (853m/s) and 1800 fps (549m/s) converted to ICAO G1 BC 0.489.
+  - 5.56x45 M4A4 10.3", M4A1 14.5" barrel twist 1:7", 30rd magazine.
+  - 7.62x51 Knight's Armament Company Mk 11 MOD 0 20" barrel twist 1:11.25", 20rd magazine.
+  - 7.62x51 SR10 14.5" barrel twist 1:10", 20rd magazine.
+- Riflescope Burris RT-6 Tactical Kit 1-6x24.
+- Riflescope Leupold Mark 4 3.5-10x40.
+- 5.56x45 standart NATO ball M855 from ACE3 Ghitub and various sources.
+- 7.62x51 standart NATO ball M80 from ACE3 Ghitub and various sources.
 - Add 5.56x45mm M855A1 from 2022/23 datas.
 - Add 5.56x45mm M193 from RUAG Ammotec AG.
-- Add 5.56x45mm Mk262 from ACE3 Ghitub.
-- Add 5.56x45mm Mk318 from ACE3 Ghitub.
-- Add 5.56x45mm M995 AP from ACE3 Ghitub.
-- Add 5.56x45mm ammunition Dual Purpose underwater subsonic (zeroing 100m or less recommanded).
-- Add 7.62x51mm M993 AP from ACE3 Ghitub.
-- Add 7.62x51mm ammunition Subsonic Lapua 200gr B416 ICAO G1 BC 0.518.
-- Add AtragMx presets and accurate mRad reticle calibration.
-- Add "ACE_ScopeHeightAboveRail" values from ACE3 "checkScopes.sqf" for all optics.
-- Add "ACE_railHeightAboveBore" values from ACE3 "checkScopes.sqf" for all weapons.
+- Add 5.56x45mm Mk262 from ACE3 Ghitub and various sources.
+- Add 5.56x45mm Mk318 from ACE3 Ghitub and various sources.
+- Add 5.56x45mm M995 AP from ACE3 Ghitub and various sources.
+- Add 5.56x45mm Dual Purpose underwater subsonic (zeroing 100m or less recommanded).
+- Add 7.62x51mm M80A1 from various sources.
+- Add 7.62x51mm M993 AP from ACE3 Ghitub and various sources.
+- Add 7.62x51mm Mk316 from ACE3 Ghitub and various sources.
+- Add 7.62x51mm Mk319 from ACE3 Ghitub and various sources.
+- Add 7.62x51mm SLAP XM948 from various sources.
+- Add 7.62x51mm SLAP Tracer XM949 from various sources.
+- Add 7.62x51mm B416 Subsonic according to Lapua data.
+- Add AtragMx presets.
+- Add "ACE_ScopeHeightAboveRail" and "ACE_railHeightAboveBore" values from ACE3 "checkScopes.sqf".
+- Effects and terminal ballistic based on vanilla Arma 3 values.
 
 Download links:
 - [Bohemia Interactive forums](https://forums.bohemia.net/forums/topic/288484-jca-gen-4-weapons-compat-ace3/)
